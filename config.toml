@@ -1,0 +1,14 @@
+baseurl = "http://bithaus.net"
+languageCode = "en-us"
+
+title = "BitHaus"
+copyright = "BitHaus"
+
+publishdir = "bithaus.github.io"
+
+[Author]
+	name = "Kris Heyden"
+
+[params]
+	description = "BitHaus"
+	github = "https://github.com/bithaus"

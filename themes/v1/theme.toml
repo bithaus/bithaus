@@ -1,0 +1,10 @@
+name = "v1"
+author = "Kris Heyden"
+description = "BitHaus v1 Theme"
+license = "MIT"
+source_repo = ""
+tags = []
+
+[author]
+	name = "Kris Heyden"
+	email = "krisheyden[at]gmail.com"
