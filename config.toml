@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "BitHaus"
 copyright = "BitHaus"
 
-publishdir = "bithaus.github.io"
+publishdir = "public"
 
 [Author]
 	name = "Kris Heyden"
